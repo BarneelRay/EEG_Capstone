@@ -1,3 +1,5 @@
 # EEG_Capstone
 This is a project that is derived from my capstone project targeted for cleaning of EEG signals and feature extraction followed by a custom made neural network and analysis of performance by the Network while classifying the valence of an emotion.
-![Model Architecture](haee_model (2).keras (1).svg)
+</br>
+![Model Architecture](haee_model%20(2).keras%20(1).svg)
+

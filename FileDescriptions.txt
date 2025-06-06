@@ -8,5 +8,3 @@ emotions.csv contains the dataset on which the main model has been trained and t
 haee_model.keras contains the custom model keras file.
 <br/>
 Both SVG format files are diagrams showing the structure of the custom model.
-<br/>
-Implementation of custom model on custom feature extraction pipeline notebook (ipynb) contains an implementation of the model for the raw EEG files focussing on feature extraction and testing on a different dataset as compared to training dataset.

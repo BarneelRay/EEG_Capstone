@@ -1,0 +1,12 @@
+# THE DESCRIPTIONS OF WHAT ALL THE FILES CONTAIN ARE CONTAINED IN THIS FILE
+Combined Feature engineering and Shallow Network engineering contains the notebook in which the custom model was developed and trained and tested on a DEAP based dataset collected from https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions
+<br/>
+av_conv, a_conv, av_pca, a_pca contain separate EEG 2 channel electrode signal data for audio-visual (av) and only audio (a) stimuli combined to 1D signal using Principal component analysis or Convolution Respectively.
+<br/>
+emotions.csv contains the dataset on which the main model has been trained and tested.
+<br/>
+haee_model.keras contains the custom model keras file.
+<br/>
+Both SVG format files are diagrams showing the structure of the custom model.
+<br/>
+Implementation of custom model on custom feature extraction pipeline notebook (ipynb) contains an implementation of the model for the raw EEG files focussing on feature extraction and testing on a different dataset as compared to training dataset.
